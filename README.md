@@ -1,1 +1,1 @@
-# loney
+# lonely
